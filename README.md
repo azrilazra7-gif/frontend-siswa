@@ -5,3 +5,7 @@
 3. `npm run dev` → http://localhost:5173
 
 URL API diatur di file `.env` (`VITE_API_URL`).
+
+## Pembuat
+Nama: Azril Azra
+GitHub: https://github.com/azrilazra7-gif
